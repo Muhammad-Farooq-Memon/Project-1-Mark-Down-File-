@@ -20,19 +20,7 @@ CSC-151
 ~~CSC-250~~
 
 **Which of the follwoing languages below is the one used in the CSC-323**
-1. `# Python program to add two numbers`
-
-`# Take input from the user`
-
-`num1 = float(input("Enter first number: "))`
-
-`num2 = float(input("Enter second number: "))`
-
-`# Calculate the sum`
-`result = num1 + num2`
-
-`# Print the sum`
-`print(f"The sum of {num1} and {num2} is {result}")`
+1. `# Python program to add two numbers` `# Take input from the user` `num1 = float(input("Enter first number: "))` `num2 = float(input("Enter second number: "))` `# Calculate the sum` `result = num1 + num2` `# Print the sum` `print(f"The sum of {num1} and {num2} is {result}")`
 
 
 
