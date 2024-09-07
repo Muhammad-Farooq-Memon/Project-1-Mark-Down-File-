@@ -22,7 +22,7 @@ CSC-151
 **Which of the follwoing languages below is the one used in the CSC-323**
 1. `Python`
 2. ~~`Java`~~
-3. `C++`
+3. ~~`C++`~~
 
 
 
