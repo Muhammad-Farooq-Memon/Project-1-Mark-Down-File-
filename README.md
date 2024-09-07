@@ -23,7 +23,9 @@ CSC-151
 1. `# Python program to add two numbers`
 
 `# Take input from the user`
+
 `num1 = float(input("Enter first number: "))`
+
 `num2 = float(input("Enter second number: "))`
 
 `# Calculate the sum`
