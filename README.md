@@ -25,6 +25,8 @@ CSC-151
 3. ~~`C++`~~
 
 ## What aspect of this class is the most interesting to you?
+Learning knew algorithms that help generate new robots with different characterstics.
+
 
 
 
