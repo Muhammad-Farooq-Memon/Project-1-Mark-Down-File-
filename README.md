@@ -4,7 +4,7 @@
 Writing markdown file for fun.
 
 ## Strike through the incorrect statement 
-**What day was Evolutionary Robotics seminar's first class of Fall' 24**
+**1. What day was Evolutionary Robotics seminar's first class of Fall' 24**
 
 ~~Monday~~ 
 ~~Tuesday~~
@@ -12,14 +12,14 @@ Writing markdown file for fun.
 Thursday
 ~~Friday~~
 
-**The pre-requisites of this class are**
+** 2. The pre-requisites of this class are**
 
 ~~CSC-10X~~
 ~~CSC-120~~
 CSC-151
 ~~CSC-250~~
 
-**Which of the follwoing languages below is the one used in the CSC-323**
+**3. Which of the follwoing languages below is the one used in the CSC-323**
 1. `Python`
 2. ~~`Java`~~
 3. ~~`C++`~~
