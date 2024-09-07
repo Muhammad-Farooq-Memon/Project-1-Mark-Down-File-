@@ -12,4 +12,12 @@ Writing markdown file for fun.
 Thursday
 ~~Friday~~
 
+**The pre-requisites of this class are**
+
+~~CSC-10X~~
+~~CSC-120~~
+CSC-151
+~~CSC-250~~
+
+
 
